@@ -14,7 +14,7 @@ You can get more information about the addon [here](hdd_tools/README.md) and all
 
 Add the repository URL under **Supervisor (Hass.io) → Add-on Store** in your Home Assistant front-end:
 
-    https://github.com/Draggon/hassio-hdd-tools
+    https://github.com/andreashanft/hassio-hdd-tools
 
 ## Configuration
 
